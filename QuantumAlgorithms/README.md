@@ -1,11 +1,11 @@
 
-#QUANTUM INFORMATICS AND QUANTUM ALGORITHMS THEORY
+# QUANTUM INFORMATICS AND QUANTUM ALGORITHMS THEORY
 
-##Условия сдачи
--устный экзамен
--лабораторные работы
+## Условия сдачи
+- устный экзамен
+- лабораторные работы
 
-##Контакты
-Алоджанц Александр Павлович
+## Контакты
+- Алоджанц Александр Павлович
 
 
