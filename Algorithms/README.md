@@ -13,12 +13,15 @@
 - тема письма: Task #, Name Surname, Group Name (if available)
 - дедлайн - 2 недели с занятия на котором было дано задание
 - защита лабораторки отсутствует
+- результаты сдачи лабы появляются позже в tg канале
 
 ## Контакты
 - Dr Petr Chunaev
 - mail - chunaev@itmo.ru
 - tg - @yamatico
 - tg channel - [link](https://t.me/joinchat/AAAAAFkAsNgh3sFBfzeubQ)
+
+
 
 
 
