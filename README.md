@@ -14,3 +14,9 @@
 - C4133: Осипов Стас [VK](https://vk.com/nemzs) 
 - C4134: ---
 
+## Полезное 
+- Получение лицензии MS Office 365: ИСУ ИТМО -> Личный кабинет -> Настройки -> Microsoft Office 365
+- Получение полной лицензии на Ultimate Idea, pyCharm, GoLand ant other product of JetBrains. На сайте JB в настройках аккаунта есть пункт подтверждение того, что вы студент с помощью учебной почты, используете [почту](https://outlook.office365.com/mail/inbox) из предыдущего пункта 
+- Еще для студентов есть такая полезная штука [GitHub Education](https://education.github.com/pack)
+- Скидка на покупку билетов на поезда [ссылка](https://rzd-bonus.ru/student.html) Получение справки: ИСУ ИТМО -> Личный кабинет -> Административные сервисы -> Студенческий офис -> Справка с места учебы -> Тип справки: по месту требования
+- Удобное приложение с расписанием [link](https://play.google.com/store/apps/details?id=ru.ifmo.itmostudents&hl=en_US)
