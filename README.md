@@ -3,6 +3,8 @@
 ## Полезные ссылки
 - [timetable](https://docs.google.com/document/d/1Id2FJN43KsOOIsTO9Utt3FIH3IQdeKqBDX9QIIN1z70/edit)
 - [official english group](https://vk.com/english_ifmo) 
+- [Themes of research 2019-2021](https://docs.google.com/spreadsheets/d/1pMOfVUWNY-fMccu5rP-MgcEPA-rO0yPr5On8ybgFkTw/edit#gid=346337369)
+- [google group](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/big-data--machine-learning)
 
 ## Контакты
 - tg чат с преподавателями [join](https://t.me/joinchat/EeTCjEfAv8W_V049jWMQKw)
