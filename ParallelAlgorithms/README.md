@@ -19,10 +19,12 @@
 
 ## Практики / Practicies:
 
-- every saterday at 10:00 and 11:40 befor 7 december
-- необходимо ответить на вопросы по лабе / you should to defence your task
+- every saturday at 10:00 and 11:40 until 7th December
+- необходимо ответить на вопросы по лабе / you must pass the quiz on the lab topic
 - отправить отчет на почту / you should email your report  
-- продемонстрировать, что код работоспособный на своем компьютере / show that your code work
+- продемонстрировать, что код работоспособный на своем компьютере / show that your code works
+
+Лабы на ядиске / tasks on ya.disk (with online pptx viewer) [link](https://yadi.sk/d/EP-iD3dPjRk2_A)
 
 ## Контакты / Contacts
 - Ekaterina Bolgova
