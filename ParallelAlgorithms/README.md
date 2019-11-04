@@ -22,6 +22,8 @@
 - every saturday at 10:00 and 11:40 until 7th December
 - необходимо ответить на вопросы по лабе / you must pass the quiz on the lab topic
 - отправить отчет на почту / you should email your report  
+- IMORTANT NOTE: it is necessary include configuration of your copmuter to report 
+  (example Intel® Core™ i5-6200U CPU @ 2.30GHz × 4, RAM 5,6 GiB DDR4, Ubuntu 18 x64, gcc compiler)
 - продемонстрировать, что код работоспособный на своем компьютере / show that your code works
 
 Лабы на ядиске / tasks on ya.disk (with online pptx viewer) [link](https://yadi.sk/d/EP-iD3dPjRk2_A)
