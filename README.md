@@ -10,7 +10,7 @@
 - tg чат с преподавателями [join](https://t.me/joinchat/EeTCjEfAv8W_V049jWMQKw)
 - tg чат для добавления обратитесь к @hungrymuskrat
 - vk чат для добавления обратитесь к [человек](https://vk.com/id183492271)
-- Alexandra Karabintseva: gmail - karabinalexandra@gmail.com, физический адрес - Биржевая линия 4, 103 ауд
+- Alexandra Karabintseva: gmail - karabinalexandra@gmail.com
 
 ## Старосты
 - С4132: ---
