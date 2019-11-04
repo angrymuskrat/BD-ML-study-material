@@ -1,6 +1,8 @@
 
 # PARALLEL ALGORITHMS FOR THE ANALYSIS AND SYNTESIS OF DATA
 
+[to main page](../README.md)
+
 ## Для сдачи необходимо / For clousing subject you need:
 
 - сделать все лабораторные работы / to do all homework (4-5 tasks)
