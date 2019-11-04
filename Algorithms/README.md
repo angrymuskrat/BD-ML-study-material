@@ -1,30 +1,34 @@
 
 # АНАЛИЗ И РАЗРАБОТКА АЛГОРИТМОВ / ANALYSIS AND DEVELOPMENT OF ALGORITHMS
 
-## Для сдачи необходимо:
+[to main page](../README.md)
 
-- сделать все лабораторные работы
-- защитить курсовой проект 
-- сдать устный экзамен
+## Для сдачи необходимо / for closing subject:
 
-## Лекции
+- сделать все лабораторные работы / Do all homeworks
+- защитить курсовой проект / Defence report about some topic [link](https://docs.google.com/spreadsheets/d/1VvmTeqemeSaY75ituJyupckbuOsQZUMiTX8zj3fwcZk/edit?usp=sharing)
+- If you have passed all homeworks, the mark for report would be mark for all course.
+- If your mark for report isn't good for you, you can try to pass exam for better score.
 
-- По чётным неделям русская лекция, по нечетным английская
+## Лекции / Lecturies
 
-## Курсовой проект
+- По чётным неделям русская лекция, по нечетным английская / English lecture lecture is held every odd week at Wednesday 
 
-- Темы будут позже
-- Делается группами около 3 человек
-- Необходима реализация алгоритма и презентация
-- В презентации нужно будет описать, что делал каждый член команды
+## Курсовой проект / Report
 
-## Лабораторные работы:
+- Topics - you can find in tg canel of algorithm  
+- Делается группами около 3 человек / You can make it with no more than two other peson
+- Необходима реализация алгоритма и презентация / You should implement this algorithm and show presentation
+- В презентации нужно будет описать, что делал каждый член команды / You should describe, that every member of gruop have done.
 
-- отправляются на почту в формате *.pdf
-- тема письма: Task #, Name Surname, Group Name (if available)
+## Лабораторные работы / Homeworks:
+
+- отправляются на почту в формате *.pdf / Format *.pdf
+- тема письма /topic of email: Task #, Name Surname, Group Name (if available)
 - дедлайн - 3 недели с соответсвующей английской лекции (нечетная неделя), 2 с русской (четная неделя) 
-- результаты сдачи лабы появляются позже в tg канале
-- Защита отсутствует при сдачи вовремя, иначе придется лично побеседовать с Петром по этой лабе
+  / 3 week from lecture, on witch this tack have been given.
+- You can check score of your labs here [link](https://docs.google.com/spreadsheets/d/1x0eEyPaLDPTBkr-eRLoMtSKQ-CByfv5iKOiGPviBQgo/edit?usp=sharing)
+- Защита отсутствует при сдачи вовремя, иначе придется лично побеседовать с Петром по этой лаб
 
 ## Контакты
 - Dr Petr Chunaev
