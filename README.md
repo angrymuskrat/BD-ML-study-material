@@ -12,6 +12,12 @@
 - vk чат для добавления обратитесь к [человек](https://vk.com/id183492271)
 - Alexandra Karabintseva: gmail - karabinalexandra@gmail.com
 
+## Subjects of 1th term
+- [Algorithms](Algorithms/README.md)
+- [DataProccessingAndAnalysis](DataProccessingAndAnalysis/README.md)
+- [ParallelAlgorithms](ParallelAlgorithms/README.md)
+- [QuantumAlgorithms](QuantumAlgorithms/README.md)
+
 ## Старосты
 - С4132: ---
 - C4133: Осипов Стас [VK](https://vk.com/nemzs) 
